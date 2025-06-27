@@ -19,8 +19,7 @@ This project demonstrates a basic **Sentiment Analysis classifier** using the **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-nltk.git
-   cd sentiment-analysis-nltk
+   git clone https://github.com/yugpatill/sentiment_analysis_on_textdata_using_NLTK
    ```
 
 ![output](output.png)
